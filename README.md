@@ -5,8 +5,8 @@ Feel free to explore and reach out if you have any questions or collaboration op
 
 About Me
 
-I'm Gracy, a passionate front-end developer with [X] years of experience in building responsive and user-friendly websites and applications. 
-My expertise lies in HTML5, CSS3, JavaScript, and various front-end frameworks such as React.js and Vue.js. 
+I'm Gracy, a passionate front-end developer with experience in building responsive and user-friendly websites and applications. 
+My expertise lies in HTML5, CSS3, JavaScript, and various front-end frameworks such as React.js.
 I'm committed to delivering high-quality solutions that exceed client expectations and provide exceptional user experiences.
 
 
@@ -16,7 +16,6 @@ HTML5
 CSS3
 JavaScript
 React.js
-Vue.js
 Responsive Web Design
 UI/UX Design Principles
 Version Control (Git)
